@@ -1,5 +1,5 @@
 let name = "<strong>Vill</strong>"
-let name2 = "<strong># Ode to Rod: The Web Weaver </strong>"
+let name2 = "<strong># Ode to Vill: The Web Weaver </strong>"
 let name3 = "<strong>## I. The Blank Canvas </strong>"
 let name4 = "<strong>## II. The HTML Symphony </strong>"
 let name5 = "<strong> ## III. The CSS Enchanter </strong>"
